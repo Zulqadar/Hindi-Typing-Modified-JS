@@ -1,5 +1,5 @@
 //<author name='Hinkhoj' />
-//<modifier name='Zuladar Idrishi' />
+//<modifier name='Zulqadar Idrishi' />
 //<version name='1.0' />
 
 var Vowel = new Array(123);
